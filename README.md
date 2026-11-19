@@ -81,103 +81,103 @@ An expanded directory of open-source video models, motion retargeting pipelines,
 
 ### 🏆 Open-Source Repositories (Ranked by Stars)
 
-- 💻 **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+- 💻 **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
   Make videos programmatically using React, enabling dynamic text, programmatic animations, and cloud-rendered video pipelines with web technologies.
 
-- 📐 **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** [![GitHub stars](https://img.shields.io/github/stars/ManimCommunity/manim?style=social&color=white)](https://github.com/ManimCommunity/manim/stargazers)  
+- 📐 **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** [![GitHub_Stars](https://img.shields.io/github/stars/ManimCommunity/manim?style=social&color=white)](https://github.com/ManimCommunity/manim/stargazers)  
   Community-maintained Python framework for programmatic mathematical animations and educational video explanations.
 
-- 🌌 **[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
+- 🌌 **[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub_Stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
   Open-source (`Apache-2.0`) video generation ecosystem democratizing efficient large-scale spatial-temporal Diffusion Transformer training and inference.
 
-- 🎞️ **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers)  
+- 🎞️ **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** [![GitHub_Stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers)  
   Official repository containing **Stable Video Diffusion** (`SVD` / `SVD-XT`), the foundational open-weight image-to-video latent diffusion models turning still images into temporal sequences.
 
-- 🎯 **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social&color=white)](https://github.com/facebookresearch/sam2/stargazers)  
+- 🎯 **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social&color=white)](https://github.com/facebookresearch/sam2/stargazers)  
   Segment Anything in Images and Videos (SAM 2) from Meta FAIR, enabling real-time promptable visual object rotoscoping, tracking, and video mask extraction.
 
-- 👤 **[KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait)** [![GitHub stars](https://img.shields.io/github/stars/KlingAIResearch/LivePortrait?style=social&color=white)](https://github.com/KlingAIResearch/LivePortrait/stargazers)  
+- 👤 **[KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait)** [![GitHub_Stars](https://img.shields.io/github/stars/KlingAIResearch/LivePortrait?style=social&color=white)](https://github.com/KlingAIResearch/LivePortrait/stargazers)  
   High-fidelity portrait and anime character animation engine featuring seamless stitching, eye/lip retargeting, and zero-shot expressive head pose transfer.
 
-- 🎬 **[Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)** [![GitHub stars](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&color=white)](https://github.com/Wan-Video/Wan2.1/stargazers)  
+- 🎬 **[Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)** [![GitHub_Stars](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&color=white)](https://github.com/Wan-Video/Wan2.1/stargazers)  
   Flagship open-source (`Apache-2.0`) video foundation model suite from Alibaba supporting text-to-video, image-to-video, video editing, and text rendering on consumer and enterprise GPUs.
 
-- 📦 **[lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)** [![GitHub stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social&color=white)](https://github.com/lllyasviel/FramePack/stargazers)  
+- 📦 **[lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)** [![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social&color=white)](https://github.com/lllyasviel/FramePack/stargazers)  
   Memory-efficient open-source (`Apache-2.0`) autoregressive next-frame-prediction video diffusion architecture enabling long-horizon 30 fps video generation on 6GB–12GB consumer GPUs.
 
-- 🕺 **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** [![GitHub stars](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone?style=social&color=white)](https://github.com/HumanAIGC/AnimateAnyone/stargazers)  
+- 🕺 **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** [![GitHub_Stars](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone?style=social&color=white)](https://github.com/HumanAIGC/AnimateAnyone/stargazers)  
   Seminal open-source pose-guided character animation framework preserving intricate appearance textures across continuous human dance and athletic movement.
 
-- 🧠 **[THUDM/CogVideo](https://github.com/THUDM/CogVideo)** [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social&color=white)](https://github.com/THUDM/CogVideo/stargazers)  
+- 🧠 **[THUDM/CogVideo](https://github.com/THUDM/CogVideo)** [![GitHub_Stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social&color=white)](https://github.com/THUDM/CogVideo/stargazers)  
   Open-source (`Apache-2.0`) Diffusion Transformer video generation family (**CogVideoX**) from Tsinghua/Zhipu AI featuring 3D causal VAEs for smooth, temporally consistent text- and image-to-video.
 
-- 🎨 **[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social&color=white)](https://github.com/facebookresearch/AnimatedDrawings/stargazers)  
+- 🎨 **[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social&color=white)](https://github.com/facebookresearch/AnimatedDrawings/stargazers)  
   Meta FAIR's open-source system bringing hand-drawn stick figures, cartoon characters, and children's drawings to life with rigged skeletal animations.
 
-- 📽️ **[Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanVideo/stargazers)  
+- 📽️ **[Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanVideo/stargazers)  
   Large-scale open-source video foundation model delivering cinema-grade motion coherence, realistic physics, dual-stream DiT architectures, and native ComfyUI integration.
 
-- 🪄 **[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
+- 🪄 **[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![GitHub_Stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
   Iconic open-source (`Apache-2.0`) plug-and-play motion module framework that animates personalized Stable Diffusion / SDXL checkpoints with MotionLoRA camera choreography.
 
-- ⚡ **[Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)** [![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social&color=white)](https://github.com/Lightricks/LTX-Video/stargazers)  
+- ⚡ **[Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)** [![GitHub_Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social&color=white)](https://github.com/Lightricks/LTX-Video/stargazers)  
   Real-time open-source DiT-based video generation model capable of synthesizing high-resolution 30 fps video clips faster than real time on local GPUs.
 
-- 💃 **[open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)** [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmpose?style=social&color=white)](https://github.com/open-mmlab/mmpose/stargazers)  
+- 💃 **[open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)** [![GitHub_Stars](https://img.shields.io/github/stars/open-mmlab/mmpose?style=social&color=white)](https://github.com/open-mmlab/mmpose/stargazers)  
   OpenMMLab's comprehensive pose estimation and tracking toolbox used across AI animation pipelines for 2D/3D human body, hand, and facial keypoint extraction.
 
-- 🎥 **[SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social&color=white)](https://github.com/SkyworkAI/SkyReels-V2/stargazers)  
+- 🎥 **[SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** [![GitHub_Stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social&color=white)](https://github.com/SkyworkAI/SkyReels-V2/stargazers)  
   Open-source infinite-length film-grade video generation model combining diffusion forcing, reinforcement learning, and multi-shot cinematic directing workflows.
 
-- 🗣️ **[TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk)** [![GitHub stars](https://img.shields.io/github/stars/TMElyralab/MuseTalk?style=social&color=white)](https://github.com/TMElyralab/MuseTalk/stargazers)  
+- 🗣️ **[TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk)** [![GitHub_Stars](https://img.shields.io/github/stars/TMElyralab/MuseTalk?style=social&color=white)](https://github.com/TMElyralab/MuseTalk/stargazers)  
   Real-time audio-driven talking-head generation engine supporting multi-language lip-syncing at 30+ fps with complete facial expression coherence.
 
-- 🥢 **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** [![GitHub stars](https://img.shields.io/github/stars/kaomei/stickman-video-director?style=social&color=white)](https://github.com/kaomei/stickman-video-director/stargazers)  
+- 🥢 **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** [![GitHub_Stars](https://img.shields.io/github/stars/kaomei/stickman-video-director?style=social&color=white)](https://github.com/kaomei/stickman-video-director/stargazers)  
   Open-source AI video directing and stickman animation workflow tool designed for orchestrating character poses, scene pacing, and automated animated video storytelling.
 
-- 🧩 **[kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)** [![GitHub stars](https://img.shields.io/github/stars/kijai/ComfyUI-WanVideoWrapper?style=social&color=white)](https://github.com/kijai/ComfyUI-WanVideoWrapper/stargazers)  
+- 🧩 **[kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)** [![GitHub_Stars](https://img.shields.io/github/stars/kijai/ComfyUI-WanVideoWrapper?style=social&color=white)](https://github.com/kijai/ComfyUI-WanVideoWrapper/stargazers)  
   Comprehensive ComfyUI node integration for Alibaba's Wan2.1 video model with text-to-video, image-to-video, and memory-saving offloading.
 
-- 🖼️ **[cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)** [![GitHub stars](https://img.shields.io/github/stars/cubiq/ComfyUI_IPAdapter_plus?style=social&color=white)](https://github.com/cubiq/ComfyUI_IPAdapter_plus/stargazers)  
+- 🖼️ **[cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)** [![GitHub_Stars](https://img.shields.io/github/stars/cubiq/ComfyUI_IPAdapter_plus?style=social&color=white)](https://github.com/cubiq/ComfyUI_IPAdapter_plus/stargazers)  
   Enhanced ComfyUI node implementation of IP-Adapter, providing reference image character conditioning and composition control across video diffusion runs.
 
-- 🎨 **[Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter)** [![GitHub stars](https://img.shields.io/github/stars/Doubiiu/ToonCrafter?style=social&color=white)](https://github.com/Doubiiu/ToonCrafter/stargazers)  
+- 🎨 **[Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter)** [![GitHub_Stars](https://img.shields.io/github/stars/Doubiiu/ToonCrafter?style=social&color=white)](https://github.com/Doubiiu/ToonCrafter/stargazers)  
   Generative cartoon interpolation framework that synthesizes fluid intermediate anime frames between two sparse keyframe drawings.
 
-- 🏃 **[hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE)** [![GitHub stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers)  
+- 🏃 **[hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE)** [![GitHub_Stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE?style=social&color=white)](https://github.com/hzwer/ECCV2022-RIFE/stargazers)  
   Real-Time Intermediate Flow Estimation (RIFE) for optical-flow frame interpolation, upscaling low-framerate AI animations to 60 fps smoothly.
 
-- 🎛️ **[Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)** [![GitHub stars](https://img.shields.io/github/stars/Fannovel16/comfyui_controlnet_aux?style=social&color=white)](https://github.com/Fannovel16/comfyui_controlnet_aux/stargazers)  
+- 🎛️ **[Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)** [![GitHub_Stars](https://img.shields.io/github/stars/Fannovel16/comfyui_controlnet_aux?style=social&color=white)](https://github.com/Fannovel16/comfyui_controlnet_aux/stargazers)  
   Essential auxiliary preprocessors (OpenPose, Depth, LineArt, Canny, DWPose) for driving ControlNet motion consistency in local video generations.
 
-- 📉 **[city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF)** [![GitHub stars](https://img.shields.io/github/stars/city96/ComfyUI-GGUF?style=social&color=white)](https://github.com/city96/ComfyUI-GGUF/stargazers)  
+- 📉 **[city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF)** [![GitHub_Stars](https://img.shields.io/github/stars/city96/ComfyUI-GGUF?style=social&color=white)](https://github.com/city96/ComfyUI-GGUF/stargazers)  
   ComfyUI custom nodes for quantized GGUF weights, enabling high-parameter video foundation models to run on 8GB–16GB consumer VRAM.
 
-- 🎙️ **[fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2)** [![GitHub stars](https://img.shields.io/github/stars/fudan-generative-vision/hallo2?style=social&color=white)](https://github.com/fudan-generative-vision/hallo2/stargazers)  
+- 🎙️ **[fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2)** [![GitHub_Stars](https://img.shields.io/github/stars/fudan-generative-vision/hallo2?style=social&color=white)](https://github.com/fudan-generative-vision/hallo2/stargazers)  
   Long-duration audio-driven talking portrait animation with 4K resolution upscaling, modular emotion dynamics, and audio-visual synchronization.
 
-- 🔮 **[genmoai/mochi](https://github.com/genmoai/mochi)** [![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social&color=white)](https://github.com/genmoai/mochi/stargazers)  
+- 🔮 **[genmoai/mochi](https://github.com/genmoai/mochi)** [![GitHub_Stars](https://img.shields.io/github/stars/genmoai/mochi?style=social&color=white)](https://github.com/genmoai/mochi/stargazers)  
   Open-source (`Apache-2.0`) Asymmetric Diffusion Transformer (AsymmDiT) video generation model engineered for photorealistic human motion and prompt fidelity.
 
-- 🌀 **[Kosinkadink/ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)** [![GitHub stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-AnimateDiff-Evolved?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved/stargazers)  
+- 🌀 **[Kosinkadink/ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)** [![GitHub_Stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-AnimateDiff-Evolved?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved/stargazers)  
   Advanced ComfyUI node suite enabling infinite-length context windows, prompt traveling, ControlNet/IPAdapter motion scheduling, and latent interpolation.
 
-- 🎭 **[MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)** [![GitHub stars](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone?style=social&color=white)](https://github.com/MooreThreads/Moore-AnimateAnyone/stargazers)  
+- 🎭 **[MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone)** [![GitHub_Stars](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone?style=social&color=white)](https://github.com/MooreThreads/Moore-AnimateAnyone/stargazers)  
   Open-source (`Apache-2.0`) pose-driven character animation pipeline transferring full-body dance and acting sequences onto reference character illustrations.
 
-- 📽️ **[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)** [![GitHub stars](https://img.shields.io/github/stars/google-research/frame-interpolation?style=social&color=white)](https://github.com/google-research/frame-interpolation/stargazers)  
+- 📽️ **[google-research/frame-interpolation](https://github.com/google-research/frame-interpolation)** [![GitHub_Stars](https://img.shields.io/github/stars/google-research/frame-interpolation?style=social&color=white)](https://github.com/google-research/frame-interpolation/stargazers)  
   Google Research's Frame Interpolation for Large Motion (FILM), synthesizing high-quality intermediate video frames across wide temporal disparities.
 
-- 🦴 **[IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)** [![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/DWPose?style=social&color=white)](https://github.com/IDEA-Research/DWPose/stargazers)  
+- 🦴 **[IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)** [![GitHub_Stars](https://img.shields.io/github/stars/IDEA-Research/DWPose?style=social&color=white)](https://github.com/IDEA-Research/DWPose/stargazers)  
   State-of-the-art 2D whole-body pose estimation (body, face, hands) delivering noise-free skeletal driving signals for character animation.
 
-- 💃 **[Tencent/MimicMotion](https://github.com/Tencent/MimicMotion)** [![GitHub stars](https://img.shields.io/github/stars/Tencent/MimicMotion?style=social&color=white)](https://github.com/Tencent/MimicMotion/stargazers)  
+- 💃 **[Tencent/MimicMotion](https://github.com/Tencent/MimicMotion)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent/MimicMotion?style=social&color=white)](https://github.com/Tencent/MimicMotion/stargazers)  
   High-resolution human motion transfer framework using confidence-aware pose guidance to animate any character image cleanly from driving videos.
 
-- 🧩 **[kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)** [![GitHub stars](https://img.shields.io/github/stars/kijai/ComfyUI-HunyuanVideoWrapper?style=social&color=white)](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper/stargazers)  
+- 🧩 **[kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)** [![GitHub_Stars](https://img.shields.io/github/stars/kijai/ComfyUI-HunyuanVideoWrapper?style=social&color=white)](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper/stargazers)  
   Custom ComfyUI integration for Tencent's HunyuanVideo supporting block offloading, prompt scheduling, and VAE optimizations.
 
-- 🛠️ **[Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)** [![GitHub stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-VideoHelperSuite?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/stargazers)  
+- 🛠️ **[Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)** [![GitHub_Stars](https://img.shields.io/github/stars/Kosinkadink/ComfyUI-VideoHelperSuite?style=social&color=white)](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/stargazers)  
   ComfyUI toolkit for loading, batching, frame-interpolating, audio-syncing, and encoding high-bitrate MP4/WebM/GIF animations.
 
 ---
@@ -205,7 +205,7 @@ Contributions are warmly encouraged! To propose a new open-source project or Saa
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-tool`).
-3. 📝 Add your entry with factual descriptions, active links, pricing/star badges, and proper categorization.
+3. 📝 Add your entry with factual descriptions, active links, pricing/Stars_Badges, and proper categorization.
 4. 🚀 Open a Pull Request with a brief explanation.
 
 ---
